@@ -105,13 +105,13 @@ li {
     #photo12
     {
         
-            background-image: url('../images/photo1.jpg');
+            background-image: url('images/photo1.jpg');
             
         
     }
     #photo2
     {
-        background-image: url('../images/photo2.jpg');
+        background-image: url('images/photo2.jpg');
         
         
     }
@@ -127,17 +127,17 @@ li {
     }
     #photo3
     {
-        background-image: url('../images/photo4.jpg');
+        background-image: url('images/photo4.jpg');
     
     }
     #photo4
     {
-        background-image: url('../images/photo5.jpg');
+        background-image: url('images/photo5.jpg');
         
     }
     #photo5
     {
-        background-image: url('../images/photo3.jpg');
+        background-image: url('images/photo3.jpg');
     
     }
     #h1contact
